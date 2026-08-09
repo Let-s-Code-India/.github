@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="mountain-logo.svg" width="140" alt="Let-s-Code-India" />
+<img src="logo.svg" width="140" alt="Logo" />
 
 # Let-s-Code-India
 
