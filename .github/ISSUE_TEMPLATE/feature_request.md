@@ -16,8 +16,6 @@ Describe what you'd like to see added or changed, in as much detail as you can. 
 
 ## Use Cases / Examples
 Concrete examples of when and how this would be used. Real scenarios help far more than abstract descriptions.
-- 
-- 
 
 ## Alternatives Considered
 Any other approaches you thought about, workarounds you're currently using, or how other projects/languages handle this — and why you think this proposal is better.
