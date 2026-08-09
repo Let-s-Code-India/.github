@@ -1,34 +1,77 @@
 <div align="center">
 
-<img src="../logo.svg" width="140" alt="Logo" />
+<img src="logo.svg" width="160" alt="Let-s-Code-India Logo" />
 
-# Let-s-Code-India
+# Welcome to Let-s-Code-India
 
-### Building original software from the ground up.
+### **Building the Entire Software Universe from First Principles.**
 
-**Starting with the Mountain programming language — and expanding into independent, unique projects across every layer of computing.**
+<a>
+  <img src="https://img.shields.io/badge/Vision-Zero_Limits-black?style=for-the-badge&logo=target" />
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Philosophy-First_Principles-orange?style=for-the-badge&logo=cpu" />
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Ecosystem-100%25_Original-blue?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## What is this organization?
+### 🌌 The Core Philosophy
 
-This organization is not limited to a single product or a single name. It is a home for original software projects, built from scratch — starting with **Mountain**, a programming language, and growing from there into other independent tools and systems as development continues.
+> **"If it runs on code, we build it ourselves."**
 
-Each project here stands on its own, with its own name, its own repository, and its own direction — united only by the goal of building things from the ground up.
+Most software today is built on top of pre-existing frameworks, libraries, and abstraction layers. **Let-s-Code-India** was founded on a different path: **Pure Engineering**. 
 
-## 📦 Current Projects
+We don't restrict ourselves to a single language, tool, or domain. We construct complete, independent digital tools from the bare ground up—learning, reverse-engineering, and innovating at every layer of computing.
 
-| Repo | Description |
-|---|---|
-| [Mountain-Lang](https://github.com/Let-s-Code-India/Mountain-Lang) | A programming language — the first project under this organization |
-| [Mountain-Lang-Doc](https://github.com/Let-s-Code-India/Mountain-Lang-Doc) | Official documentation and website for Mountain |
+---
 
-*More projects will be added here as they begin development.*
+### ⚡ What We Design & Create
 
-## 🤝 Contributing
+Our work spans every corner of computer science and software development:
 
-This organization is early-stage and growing. Contributions, ideas, and discussions are welcome on individual project repos — check each repo's Discussions tab or open an issue to get started.
+```
+                  ┌─────────────────────────────────────────┐
+                  │          LET'S CODE INDIA               │
+                  └────────────────────┬────────────────────┘
+                                       │
+         ┌─────────────────────────────┼─────────────────────────────┐
+         ▼                             ▼                             ▼
+┌───────────────────┐        ┌───────────────────┐        ┌───────────────────┐
+│ System Layer      │        │ Developer Engines │        │ Core Applications │
+├───────────────────┤        ├───────────────────┤        ├───────────────────┤
+│ • Custom OS       │        │ • Languages & Compilers    │ • Independent Web Browsers │
+│ • Hardware Interfaces      │ • Integrated IDEs │        │ • Custom AI & LLMs│
+│ • Runtime Engines │        │ • Build Frameworks│        │ • Developer Tools │
+└───────────────────┘        └───────────────────┘        └───────────────────┘
+```
+
+---
+
+### 🌀 Why This Organization Exists
+
+1. **Absolute Independence:** Building tools without relying on heavy external dependencies.
+2. **Deep System Mastery:** Understanding every machine instruction, compiler phase, and architecture detail by writing it ourselves.
+3. **Open Architecture for Everyone:** Creating a massive knowledge base where anyone can learn real engineering, contribute code, and grow.
+
+---
+
+### 🤝 How to Join & Contribute
+
+Whether you are a low-level systems programmer, an AI enthusiast, an app developer, or someone eager to learn how software works beneath the surface—**you belong here**.
+
+* 🔍 **Explore:** Check our repositories to see active engines, tools, and systems.
+* 💬 **Engage:** Join discussions, open issues, and share architecture ideas.
+* 🛠️ **Build:** Pick up any issue, submit pull requests, or propose a brand-new original project under the org.
+
+---
+
+<div align="center">
+
+<sub>*Driven by curiosity. Powered by code. Built without limits.*</sub>
 
 </div>
