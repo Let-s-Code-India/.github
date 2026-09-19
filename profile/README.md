@@ -51,17 +51,6 @@ No single one of these is "the project" — every branch above gets equal focus 
 2. **Deep System Mastery** — Understanding every machine instruction, compiler phase, and architecture detail by writing it ourselves.
 3. **Open Architecture for Everyone** — Creating a massive knowledge base where anyone can learn real engineering, contribute code, and grow.
 
-### 🕒 Recent Updates
-
-| Date | Update |
-|---|---|
-| Aug 2026 | Organization structure, branch protection, and CI set up for `mountain-lang` |
-| Aug 2026 | Documentation repo (`Mountain-Lang-Doc`) launched |
-| Aug 2026 | Org-wide contribution guidelines, Code of Conduct, and issue/PR templates published |
-| Aug 2026 | Discussions opened to the community |
-
-*Full history lives in each repo's commits — this is just the headline view.*
-
 ### 🤝 How to Join & Contribute
 
 Whether you are a low-level systems programmer, an AI enthusiast, an app developer, or someone eager to learn how software works beneath the surface — **you belong here**.
