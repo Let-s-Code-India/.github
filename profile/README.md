@@ -22,7 +22,7 @@
 
 <br/>
 
-[**Philosophy**](#-the-core-philosophy) &nbsp;•&nbsp; [**What We Build**](#-what-we-design--create) &nbsp;•&nbsp; [**Projects**](#-active-projects) &nbsp;•&nbsp; [**How We Work**](#-how-we-work--learn) &nbsp;•&nbsp; [**Join Us**](#-join-and-contribute)
+[**Philosophy**](#-the-core-philosophy) &nbsp;•&nbsp; [**What We Build**](#-what-we-design--create) &nbsp;•&nbsp; [**How We Work**](#-how-we-work--learn) &nbsp;•&nbsp; [**Join Us**](#-join-and-contribute)
 
 </div>
 
