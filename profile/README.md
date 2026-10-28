@@ -88,21 +88,6 @@ graph TD
 
 ---
 
-## 📦 Active Projects
-
-<div align="center">
-
-| Project | Domain | Focus | Status | Activity |
-|:---|:---:|:---|:---:|:---:|
-| [**Mountain-Lang**](https://github.com/Let-s-Code-India/mountain-lang) | Systems | Core logic & execution framework | 🟡 In Progress | ![Last commit](https://img.shields.io/github/last-commit/Let-s-Code-India/mountain-lang?style=flat-square&color=0B84FF) |
-| [**Mountain-Lang-Doc**](https://github.com/Let-s-Code-India/Mountain-Lang-Doc) | Docs | Documentation & specifications | 🟢 Active | ![Last commit](https://img.shields.io/github/last-commit/Let-s-Code-India/Mountain-Lang-Doc?style=flat-square&color=2DBF45) |
-
-</div>
-
-*New repositories and independent tools will appear here as experiments turn into active projects. This list isn't tied to any one product.*
-
----
-
 ## 💡 How We Work & Learn
 
 <div align="center">
